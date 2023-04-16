@@ -8,6 +8,10 @@ steps:
 3. Set up your testing environment `<somename>_test` through use of relative symlinks to your project's sources, or otherwise;
 4. run `make run` to run all tests
 
+# Requirements
+
+C++11, Make, *nix
+
 # See also
 
 - [One header debug](https://github.com/damurashov/One-header-debug)
