@@ -10,7 +10,7 @@ steps:
 
 # Requirements
 
-C++11, Make, *nix
+C++11, Make, *nix, STL
 
 # See also
 
